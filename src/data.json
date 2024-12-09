@@ -1,0 +1,29 @@
+{
+    "texts": {
+      "headerTitle": "Профессиональная юридическая защита",
+      "headerSubtitle": "25 лет успешной практики в Израиле",
+      "lawyerName": "Илина Циперсон-Ясловиц",
+      "servicesTitle": "Наши услуги",
+      "aboutTitle": "О нас",
+      "aboutText": "Адвокат-Нотариус Илина Циперсон-Ясловиц ведет успешную юридическую практику в Израиле...",
+      "contactTitle": "Контакты",
+      "contactAddress": "г. Хайфа, ул. Ха-ацмаут 43, 2 этаж",
+      "footerText1": "© 2024 Адвокат-Нотариус Илина Циперсон-Ясловиц",
+      "footerText2": "Член коллегии адвокатов Израиля с 1999 года",
+      "statsYears": "25+",
+      "statsCases": "1000+",
+      "statsSupport": "24/7",
+      "statsClients": "98%",
+      "serviceDamage": "Взыскание ущерба",
+      "serviceFamily": "Семейное право",
+      "serviceNotary": "Нотариальные услуги",
+      "serviceDamageItems": "ДТП и аварии\nПроизводственные травмы\nМедицинская халатность\nСтраховые споры",
+      "serviceFamilyItems": "Разводы\nАлименты\nРаздел имущества\nБрачные договоры",
+      "serviceNotaryItems": "Заверение документов\nДоверенности\nЗавещания\nДекларации"
+    },
+    "images": {
+      "headerBg": "https://images.unsplash.com/photo-1599475783457-389b5c91c254?ixlib=rb-4.0.3&auto=format&fit=crop&w=1950&q=80",
+      "headerLawyer": "https://images.unsplash.com/photo-1570752322191-3c9c4bccf67e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+    }
+  }
+  
